@@ -22,6 +22,8 @@
     "@codemirror/lang-javascript": "^6.2.2",
     "@codemirror/state": "^6.5.0",
     "@codemirror/view": "^6.36.1",
+    "axios": "^1.7.9",
+    "codemirror": "^6.0.1",
     "webpack": "^5.97.1"
   },
   "devDependencies": {
